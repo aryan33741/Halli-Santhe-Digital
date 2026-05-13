@@ -22,13 +22,13 @@ The application allows buyers to browse handcrafted items such as Channapatna to
 ## 📱 Screenshots
 
 ### Home Screen
-<img width="250" src="YOUR_IMAGE_LINK_HERE">
+<img width="250" src="https://github.com/aryan33741/Halli-Santhe-Digital/blob/master/home.jpeg">
 
 ### Product Detail Screen
-<img width="250" src="YOUR_IMAGE_LINK_HERE">
+<img width="250" src="https://github.com/aryan33741/Halli-Santhe-Digital/blob/master/browse.jpeg">
 
 ### Upload Product Screen
-<img width="250" src="YOUR_IMAGE_LINK_HERE">
+<img width="250" src="https://github.com/aryan33741/Halli-Santhe-Digital/blob/master/artisan%20upload.jpeg">
 
 ---
 
